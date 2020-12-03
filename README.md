@@ -1,4 +1,6 @@
 # Matrix-factorization-from-scratch
+
+    #Check question1.py
 This code is example of matrix factorization used for solving optimization  problem for Recommendation systems.
 
 Implemented code from scratch without using any inbuilt libraries.
